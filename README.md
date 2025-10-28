@@ -1,6 +1,6 @@
 # Recipes Project
 
-A basic recipes project based off of the odin project [https://www.theodinproject.com/lessons/foundations-recipes]
+A basic recipes project based off of [The Odin Project Foundations Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Learning Goals
  - Practice some of the HTML skills we have learned to this point
