@@ -1,0 +1,69 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+}
+
+.title {
+  background-color: forestgreen;
+  padding: 16px;
+}
+
+.nav {
+  display: inline-block;
+  margin: 12px;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.navlink {
+  padding: 4px 12px;
+  background-color: aquamarine;
+}
+
+.navlink:hover {
+  background-color: rgb(58, 84, 75);
+}
+
+.description {
+  margin: 12px;;
+}
+
+.description p {
+  margin: 16px;
+}
+
+.ingredients {
+  margin: 12px;
+}
+
+.ingredients ul {
+  margin: 12px 0px 0px 24px;
+}
+
+.ingredients ul li {
+  margin: 12px 0px;
+}
+
+.steps {
+  margin: 12px;
+}
+
+.steps ol {
+  margin: 12px 0px 0px 24px;
+}
+
+.steps ol li {
+  margin: 12px 0px;
+}
